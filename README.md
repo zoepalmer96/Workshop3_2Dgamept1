@@ -1,1 +1,3 @@
 # Workshop3_2Dgamept1
+
+Working up until movement, stuck on this bug for a long time, no matter the variations I try in the variable placement, assignments and methods of using reasoning logic to move the player planePrimitive box, no change is made in my view, even when I removed the texture element that I earlier required to fill the shapes colour, no change is made to the visual result.  Any advice on what I'm doing wrong for the key pressed events to not be working would be greatly helpful.  I am also going to update my visual studios as this could be something resulting in the build not building as expected. In previous assignments I have used this method of key events and it has worked perfectly so I am lost as in to why there is no effect on the shape. 
